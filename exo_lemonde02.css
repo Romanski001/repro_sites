@@ -35,3 +35,96 @@
 	color: white;
 	text-align: center;
 }
+.menu{
+	text-transform: uppercase;
+	}
+	
+.menu li {
+	display: inline;
+	}
+
+.home_icon
+{
+	width: 17px;
+}
+
+.menu a {
+	color: black;
+	font-weight: bold;
+	background-color: white;
+	border-top-width: 4px;
+	border-top-style: solid;
+	border-bottom-width: none;
+}
+
+#home {
+	border-top-width:4px;
+	border-top-color: #BBBDBF; 
+}
+
+#international {
+	border-top-width:4px;
+	border-top-color: #0386C3; 
+}
+
+#politique {
+	border-top-width:4px;
+	border-top-color: #1F0D67; 
+}
+
+#societe {
+	border-top-width:4px;
+	border-top-color: #D50303; 
+}
+
+#eco {
+	border-top-width:4px;
+	border-top-color: #FE2F2F; 
+}
+
+#culture {
+	border-top-width:4px;
+	border-top-color: #F20559; 
+}
+
+#idees {
+	border-top-width:4px;
+	border-top-color: #2E3942; 
+}
+
+#planete {
+	border-top-width:4px;
+	border-top-color: #30932E; 
+}
+
+#sport {
+	border-top-width:4px;
+	border-top-color: #6FAA12; 
+}
+
+#sciences {
+	border-top-width:4px;
+	border-top-color: #0CB4AE; 
+}
+
+#pixels {
+	border-top-width:4px;
+	border-top-color: #06B586; 
+}
+
+#campus {
+	border-top-width:4px;
+	border-top-color: #FF6E17; 
+}
+
+#lemag {
+	border-top-width:4px;
+	border-top-color: #2E3942; 
+}
+
+#yellow {
+	background-color: gold;
+		border-top-width:4px;
+	border-top-color: #CCAA00; 
+}
+
