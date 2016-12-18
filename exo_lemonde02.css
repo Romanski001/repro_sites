@@ -54,77 +54,202 @@
 	background-color: white;
 	border-top-width: 4px;
 	border-top-style: solid;
-	border-bottom-width: none;
+
 }
 
 #home {
-	border-top-width:4px;
-	border-top-color: #BBBDBF; 
+	border-top: 4px solid #BBBDBF; 
+}
+
+#home:hover {
+	background-color: #BBBDBF;
+	border-top-color:;
 }
 
 #international {
-	border-top-width:4px;
-	border-top-color: #0386C3; 
+	border-top: 4px solid #0386C3; 
+}
+
+#international:hover {
+	background-color: #0386C3;
+	border-top-color:;
 }
 
 #politique {
-	border-top-width:4px;
-	border-top-color: #1F0D67; 
+	border-top: 4px solid #1F0D67; 
+}
+
+#politique:hover {
+	background-color: #1F0D67;
+	border-top-color:;
 }
 
 #societe {
-	border-top-width:4px;
-	border-top-color: #D50303; 
+	border-top: 4px solid #D50303; 
 }
 
+#societe:hover {
+	background-color: #D50303;
+	border-top-color:;
+	
+}
 #eco {
-	border-top-width:4px;
-	border-top-color: #FE2F2F; 
+	border-top: 4px solid #FE2F2F; 
+}
+
+#eco:hover {
+	background-color: #FE2F2F;
+	border-top-color:;
+	
 }
 
 #culture {
-	border-top-width:4px;
-	border-top-color: #F20559; 
+	border-top: 4px solid #F20559; 
+}
+
+#culture:hover {
+	background-color: #F20559;
+	border-top-color:;
+	
 }
 
 #idees {
-	border-top-width:4px;
-	border-top-color: #2E3942; 
+	border-top: 4px solid #2E3942; 
+}
+
+#idees:hover {
+	background-color: #2E3942;
+	border-top-color:;
+	
 }
 
 #planete {
-	border-top-width:4px;
-	border-top-color: #30932E; 
+	border-top: 4px solid #30932E; 
+}
+
+#planete:hover {
+	background-color: #30932E;
+	border-top-color:;
+	
 }
 
 #sport {
-	border-top-width:4px;
-	border-top-color: #6FAA12; 
+	border-top: 4px solid #6FAA12; 
+}
+
+#sport:hover {
+	background-color: #6FAA12;
+	border-top-color:;
+	
 }
 
 #sciences {
-	border-top-width:4px;
-	border-top-color: #0CB4AE; 
+	border-top: 4px solid #0CB4AE; 
+}
+
+#sciences:hover {
+	background-color: #0CB4AE;
+	border-top-color:;
+	
 }
 
 #pixels {
-	border-top-width:4px;
-	border-top-color: #06B586; 
+	border-top: 4px solid #06B586; 
+}
+
+#pixels:hover {
+	background-color: #06B586;
+	border-top-color:;
+	
 }
 
 #campus {
-	border-top-width:4px;
-	border-top-color: #FF6E17; 
+	border-top: 4px solid #FF6E17; 
+}
+
+#campus:hover {
+	background-color: #FF6E17;
+	border-top-color:;
+	
 }
 
 #lemag {
-	border-top-width:4px;
-	border-top-color: #2E3942; 
+	border-top-width:4px solid #2E3942; 
+}
+
+#lemag:hover {
+	background-color: #2E3942;
+	border-top-color:;
+	
 }
 
 #yellow {
 	background-color: gold;
-		border-top-width:4px;
-	border-top-color: #CCAA00; 
+	border-top: 4px solid #CCAA00; 
+}
+
+#icon_le_mag {
+	width: 11px;
+}
+
+.borderlemag {
+	border-top: 4px solid #2E3942;
+	}
+
+
+.barre a {
+	color: #E9EDF0;
+	background-color: #1D212E;
+	}
+
+.barre li {
+	display: inline;
+	}
+
+.barre a:hover {
+	color: #D50303;
+}
+
+#en_ce_mom {
+	color: #E9EDF0;
+	background-color: #D50303;
+}
+
+
+#triangle-right {
+	width:0px;
+	height: 0;
+	border-top: 7px solid transparent;
+	border-left:5px solid red;
+	border-right:1px solid white;
+	border-bottom: 7px solid transparent;
+}
+
+body {
+	background-color: #E9EDF0;
+}
+
+.article1 {
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 41%;
+}
+
+#titre_article {
+	color: #071660;
+	font-family: Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#photo_article1 {
+	margin-left: 5px;
+}
+
+.Appel_a_T {
+	background-color: white;
+	margin-left: 60%;
+	margin-right: 10%;
 }
 
